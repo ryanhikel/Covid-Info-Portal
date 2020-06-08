@@ -8,5 +8,5 @@ Things to change
 1. Refactor repeating css in all components.
 2. Add search functionallity to article loading page rather than load all articles.
 3. Replace state selection dropdown with a search bar.
-4. Clean article descriptions (some have html tags that are not processed by react ex: <li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li>).
+4. Clean article descriptions (some have html tags that are not processed by react ex: "<li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li>").
 5. Have article cards be a uniform size to make for a nicer visual.
