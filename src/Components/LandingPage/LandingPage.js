@@ -7,10 +7,10 @@ class LandingPage extends Component {
       <div className="LandingPage">
         <div className="splash-title">
           <h1>
-            Healthy Kids
+            COVID Information Portal
           </h1>
           <h3>
-            Looking out for what matters to you.
+            Keeping you and your family informed and safe.
           </h3>
         </div>
       </div>

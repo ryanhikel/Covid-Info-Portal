@@ -5,11 +5,11 @@ class Navigation extends React.Component {
   render() {
     return (
       <Navbar fixed="top" className="Navigation" bg="dark" variant="dark">
-        <Navbar.Brand href="/">Healthy Kids</Navbar.Brand>
+        <Navbar.Brand href="/">COVID Information Portal</Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link href="/">Home</Nav.Link>
-          <Nav.Link href="doctors">Search</Nav.Link>
-          <Nav.Link href="about">About</Nav.Link>
+          <Nav.Link href="articles">Articles</Nav.Link>
+          <Nav.Link href="statistics">Statistics</Nav.Link>
         </Nav>
       </Navbar>
     )
