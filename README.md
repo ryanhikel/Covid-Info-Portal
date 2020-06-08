@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This uses a repurposed project created by me as the base. The original repository can be found [Here](https://github.com/ryanhikel/healthy-kids)
 
-The applications purpose is to provide the user with information on the current COVID-19 pandemic. There is a section to load articles related to COVID using the [News API] ( https://newsapi.org/docs/get-started) and a section to see the current stats of a particular state using [The COVID Tracking Project] (https://covidtracking.com/api).
+The applications purpose is to provide the user with information on the current COVID-19 pandemic. There is a section to load articles related to COVID using the [News API]( https://newsapi.org/docs/get-started) and a section to see the current stats of a particular state using [The COVID Tracking Project](https://covidtracking.com/api).
 
 Things to change
 1. Refactor repeating css in all components.
