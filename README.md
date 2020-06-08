@@ -1,7 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a remake of my portion an application I built with 2 other collegues. The original repository can be found [Here](https://git.generalassemb.ly/hikelryan/doctor-app/graphs/contributors)
+This uses a repurposed project created by me as the base. The original repository can be found [Here](https://github.com/ryanhikel/healthy-kids)
 
-Technologies include React.js, Express.js, and react-bootstrap
+The applications purpose is to provide the user with information on the current COVID-19 pandemic. There is a section to load articles related to COVID using the [News API]( https://newsapi.org/docs/get-started) and a section to see the current stats of a particular state using [The COVID Tracking Project](https://covidtracking.com/api).
 
-Further development in progress.
+Things to change
+1. Refactor repeating css in all components.
+2. Add search functionallity to article loading page rather than load all articles.
+3. Replace state selection dropdown with a search bar.
+4. Clean article descriptions (some have html tags that are not processed by react ex: <li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li>).
+5. Have article cards be a uniform size to make for a nicer visual.
